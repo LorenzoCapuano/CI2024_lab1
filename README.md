@@ -6,7 +6,7 @@ simulated annealing, more probable to accept not best solution when stuck after 
 
 prob, cost, its
 
-(100     10      .2)  
+(100     10      .2)  250 500
 (1000    100     .2)  5612  7000
 (10000   1000    .2)  109067 52234
 (100000  10000   .1)  1850311 67828
